@@ -15,4 +15,4 @@ Escreva um programa que faça 7 chamadas a console.log() para retornar o seguint
 ######
 ####### 
 
-exercício resolvido em [Triângulo em Loop](trianguloEmloop.js)
+exercício resolvido em [Triângulo em Loop](trianguloEmLoop.js)
